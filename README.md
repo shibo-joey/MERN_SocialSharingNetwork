@@ -5,4 +5,4 @@ sharing food and places in nerwork
 
 2. update the google map api key in location.js
 
-3.npm install
+3. npm install
